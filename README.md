@@ -1,5 +1,5 @@
-csv - emit loop or archive data in comma-separated-value format
-Copyright 2015 Matthew Wall
+# csv - emit loop or archive data in comma-separated-value format
+Forked from 0.10 (copyright 2015 Matthew Wall)
 
 Installation instructions:
 
